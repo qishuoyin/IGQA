@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# SLURM / Logs
+logs/
+*.out
+*.err
+
+# System / IDE
+.DS_Store
+.vscode/
+.idea/
+
